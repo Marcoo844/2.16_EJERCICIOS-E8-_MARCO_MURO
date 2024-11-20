@@ -1,2 +1,6 @@
 Contenido del archivo 1
 Nueva linea en master
+Nueva linea 1
+Nueva linea 2
+Nueva linea 3
+
